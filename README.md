@@ -36,7 +36,7 @@ Users should be able to:
 ### Links
 
 -  Solution URL: [solution URL here](https://www.frontendmentor.io/solutions/responsive-fylo-dark-theme-landing-page-using-flex-and-css-grid-uAm1Ijy-bm)
--  Live Site URL: [live site URL here](https://youthful-liskov-5d664e.netlify.app/)
+-  Live Site URL: [live site URL here](https://wizardly-heyrovsky-1d2036.netlify.app/)
 
 ## Built with
 
