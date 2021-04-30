@@ -90,18 +90,7 @@ body {
 }
 
 .card-img {
-   position: relative;
-}
-
-.card-img::after {
-   content: "";
-   display: block;
-   position: absolute;
-   top: 0;
-   left: 0;
-   width: 100%;
-   height: 100%;
-   background-color: hsla(277, 60%, 45%, 0.55);
+   background-color: hsl(277, 64%, 61%);
 }
 
 .card-img img {
@@ -109,6 +98,7 @@ body {
    width: 100%;
    height: 100%;
    object-fit: cover;
+   mix-blend-mode: multiply;
 }
 
 @media screen and (max-width: 768px) {
